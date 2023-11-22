@@ -1,0 +1,5 @@
+# Ignore binary file from compiler output
+## Ignore all
+*
+## Unignore all with extensions
+!*.*
